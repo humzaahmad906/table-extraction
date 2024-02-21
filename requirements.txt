@@ -1,0 +1,7 @@
+numpy
+pandas
+pillow
+transformers==4.37.2
+timm
+pytesseract
+Flask
